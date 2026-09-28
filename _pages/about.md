@@ -37,8 +37,15 @@ Academic Services
 ======
 {: #academic-services}
 
-* **Session Chair:** The 16th IEEE International Conference on Internet of Things (iThings 2023).
-* **TPC Member:** IEEE ICC 2027/2026/2025, IEEE GLOBECOM 2026/2025/2024, IEEE/CIC ICCC 2026, IEEE CSE 2025, IEEE ICC 2025, ICNC 2025, IEEE Metaverse 2024, IEEE VTC2023-Fall.
+* **Session Chair:** The 16th IEEE International Conference on Internet of Things (iThings 2023)
+* **TPC Member:** 
+  - IEEE ICC 2027/2026/2025
+  - IEEE GLOBECOM 2026/2025/2024
+  - IEEE/CIC ICCC 2026
+  - IEEE CSE 2025
+  - ICNC 2025
+  - IEEE Metaverse 2024
+  - IEEE VTC2023-Fall
 * **Reviewer:** 
   - IEEE Transactions on Mobile Computing
   - IEEE Transactions on Services Computing
