@@ -11,8 +11,6 @@ I am a Ph.D. candidate in Control Science and Engineering at [Guangdong Universi
 
 My research interests include Internet of Vehicles, Security and Privacy, Network Economics, and Metaverse-enabled Networked Systems. My recent work focuses on privacy-preserving mechanisms, pseudonym management, incentive design, and digital-twin services for vehicular networks and next-generation mobile edge systems.
 
-罗晓峰，广东工业大学控制科学与工程专业博士研究生，导师为何肇水教授和康佳文教授。主要研究方向包括车联网、安全与隐私、网络经济学、元宇宙赋能的网络系统等。
-
 Education
 ======
 * 2025.09--Present, Ph.D. Candidate, Control Science and Engineering, Guangdong University of Technology.
