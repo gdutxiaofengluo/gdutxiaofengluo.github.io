@@ -41,6 +41,7 @@ News
          alt="National Scholarship">
   </div>
 </div>
+
 * (12/2025)**[Paper]** One paper on pseudonym exchange incentives for privacy-enhanced vehicular metaverses accepted by IEEE Transactions on Mobile Computing. ([Link](https://ieeexplore.ieee.org/abstract/document/11316369/))
 * (07/2025)**[Paper]** One paper on trustworthy semantic communication for 6G networks published in IEEE Network and selected as IEEE ComSoc Best Readings. ([Link](https://www.comsoc.org/publications/best-readings/semantic-communications))
 
