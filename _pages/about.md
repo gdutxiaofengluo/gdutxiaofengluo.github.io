@@ -29,21 +29,20 @@ News
 * (04/2026)**[Award]** Selected Member of the "One Hundred Leading Youth Speakers" Delegation under the New-Era University Education Community.
 * (12/2025)**[Award]** Selected for the Doctoral Student Program of the Young S&T Talents Cultivation Project, China Association for Science and Technology.
 * (12/2025)**[Award]** Selected for the Graduate Elite Innovative Talent Program, Guangdong University of Technology.
-* (09/2024) **[Award]** Received the
-  <a href="#national-scholarship-modal">National Scholarship</a>,
-  Ministry of Education of China.
-
-<div id="national-scholarship-modal" class="image-modal">
-  <a href="#" class="image-modal-close">&times;</a>
-
-  <div class="image-modal-content">
-    <img src="/images/personal_image/national_scholarship.jpg"
-         alt="National Scholarship">
-  </div>
-</div>
-
+* (09/2024) **[Award]** Received the <a href="#national-scholarship-modal">National Scholarship</a>, Ministry of Education of China.
 * (12/2025)**[Paper]** One paper on pseudonym exchange incentives for privacy-enhanced vehicular metaverses accepted by IEEE Transactions on Mobile Computing. ([Link](https://ieeexplore.ieee.org/abstract/document/11316369/))
 * (07/2025)**[Paper]** One paper on trustworthy semantic communication for 6G networks published in IEEE Network and selected as IEEE ComSoc Best Readings. ([Link](https://www.comsoc.org/publications/best-readings/semantic-communications))
+
+<div id="national-scholarship-modal" class="image-modal">
+  <div class="image-modal-box">
+
+    <a href="#news" class="image-modal-close" aria-label="Close">&times;</a>
+
+    <img src="/images/personal_image/national_scholarship.jpg"
+         alt="National Scholarship">
+
+  </div>
+</div>
 
 Academic Services
 ======
