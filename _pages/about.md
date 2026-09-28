@@ -25,6 +25,7 @@ News
 ======
 {: #news}
 
+* (08/2026)**[Award]** One paper on cross-reality location privacy protection in 6G-enabled vehicular metaverses accepted by Science China Information Sciences. ([Link](https://link.springer.com/article/10.1007/s11432-026-5081-y))
 * (04/2026)**[Award]** Selected Member of the "One Hundred Leading Youth Speakers" Delegation under the New-Era University Education Community.
 * (12/2025)**[Award]** Selected for the Doctoral Student Program of the Young S&T Talents Cultivation Project, China Association for Science and Technology.
 * (12/2025)**[Award]** Selected for the Graduate Elite Innovative Talent Program, Guangdong University of Technology.
@@ -39,24 +40,26 @@ Academic Services
 * **Session Chair:** The 16th IEEE International Conference on Internet of Things (iThings 2023).
 * **TPC Member:** IEEE ICC 2027/2026/2025, IEEE GLOBECOM 2026/2025/2024, IEEE/CIC ICCC 2026, IEEE CSE 2025, IEEE ICC 2025, ICNC 2025, IEEE Metaverse 2024, IEEE VTC2023-Fall.
 * **Reviewer:** 
-IEEE Transactions on Mobile Computing
-IEEE Transactions on Services Computing
-IEEE Transactions on Cybernetics
-IEEE Wireless Communications
-IEEE Transactions on Systems, Man, and Cybernetics: Systems
-Engineering Applications of Artificial Intelligence
-IEEE Transactions on Cognitive Communications and Networking
-IEEE Internet of Things Journal, IEEE Transactions on Network and Service Management
-IEEE Communications Magazine, IEEE Transactions on Vehicular Technology
-IEEE Transactions on Network Science and Engineering
-Journal of King Saud University Computer and Information Sciences
-Cybersecurity
-IEEE Vehicular Technology Magazine
-IEEE Sensors Journal
-IET Communications
-Journal of Supercomputing
-Journal of Communications and Networks
-Transactions on Emerging Telecommunications Technologies.
+  - IEEE Transactions on Mobile Computing
+  - IEEE Transactions on Services Computing
+  - IEEE Transactions on Cybernetics
+  - IEEE Wireless Communications
+  - IEEE Transactions on Systems, Man, and Cybernetics: Systems
+  - Engineering Applications of Artificial Intelligence
+  - IEEE Transactions on Cognitive Communications and Networking
+  - IEEE Internet of Things Journal
+  - IEEE Transactions on Network and Service Management
+  - IEEE Communications Magazine
+  - IEEE Transactions on Vehicular Technology
+  - IEEE Transactions on Network Science and Engineering
+  - Journal of King Saud University - Computer and Information Sciences
+  - Cybersecurity
+  - IEEE Vehicular Technology Magazine
+  - IEEE Sensors Journal
+  - IET Communications
+  - Journal of Supercomputing
+  - Journal of Communications and Networks
+  - Transactions on Emerging Telecommunications Technologies
 
 Honors and Awards
 ======
