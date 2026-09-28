@@ -201,8 +201,9 @@
     cursor: pointer;
   }
 
-  .visible-links {
-    display: table;
+   .visible-links {
+     display: table;
+     margin-left: auto;
 
     li {
       display: table-cell;
