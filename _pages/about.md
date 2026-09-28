@@ -25,8 +25,8 @@ News
 * (12/2025)**[Award]** Selected for the Doctoral Student Program of the Young S&T Talents Cultivation Project, China Association for Science and Technology.
 * (12/2025)**[Award]** Selected for the Graduate Elite Innovative Talent Program, Guangdong University of Technology.
 * (09/2024)**[Award]** Received the National Scholarship, Ministry of Education of China.
-* (2025)**[Paper]** Paper on privacy-enhanced vehicular metaverses accepted by IEEE Transactions on Mobile Computing.
-* (2024)**[Paper]** Paper on trustworthy semantic communication for 6G networks published in IEEE Network and selected as IEEE ComSoc Best Readings.
+* (12/2025)**[Paper]** One paper on pseudonym exchange incentives for privacy-enhanced vehicular metaverses accepted by IEEE Transactions on Mobile Computing. ([Link](https://ieeexplore.ieee.org/abstract/document/11316369/))
+* (2024)**[Paper]** One paper on trustworthy semantic communication for 6G networks published in IEEE Network and selected as IEEE ComSoc Best Readings. ([Link](https://www.comsoc.org/publications/best-readings/semantic-communications))
 
 Academic Services
 ======
@@ -36,7 +36,7 @@ Academic Services
 * **TPC Member:** IEEE ICC 2027, IEEE GLOBECOM 2026, IEEE/CIC ICCC 2026, IEEE ICC 2026, IEEE CSE 2025, IEEE GLOBECOM 2025, IEEE ICC 2025, ICNC 2025, IEEE GLOBECOM 2024, IEEE Metaverse 2024, IEEE VTC2023-Fall.
 * **Reviewer:** IEEE Transactions on Mobile Computing, IEEE Transactions on Services Computing, IEEE Transactions on Cybernetics, IEEE Wireless Communications, IEEE Transactions on Systems, Man, and Cybernetics: Systems, Engineering Applications of Artificial Intelligence, IEEE Transactions on Cognitive Communications and Networking, IEEE Internet of Things Journal, IEEE Transactions on Network and Service Management, IEEE Communications Magazine, IEEE Transactions on Vehicular Technology, IEEE Transactions on Network Science and Engineering, Journal of King Saud University Computer and Information Sciences, Cybersecurity, IEEE Vehicular Technology Magazine, IEEE Sensors Journal, IET Communications, Journal of Supercomputing, Journal of Communications and Networks, and Transactions on Emerging Telecommunications Technologies.
 
-Awards
+Honors and Awards
 ======
 {: #awards}
 
