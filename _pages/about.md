@@ -13,6 +13,8 @@ My research interests include Internet of Vehicles, Security and Privacy, Networ
 
 Education
 ======
+{: #education}
+
 * 2025.09--Present, Ph.D. Candidate, Control Science and Engineering, Guangdong University of Technology.
 * 2024.08--2024.11, Visiting Student, Singapore University of Technology and Design.
 * 2024.07--2024.08, Visiting Student, Nanyang Technological University.
@@ -21,6 +23,8 @@ Education
 
 News
 ======
+{: #news}
+
 * (04/2026)**[Award]** Selected Member of the "One Hundred Leading Youth Speakers" Delegation under the New-Era University Education Community.
 * (12/2025)**[Award]** Selected for the Doctoral Student Program of the Young S&T Talents Cultivation Project, China Association for Science and Technology.
 * (12/2025)**[Award]** Selected for the Graduate Elite Innovative Talent Program, Guangdong University of Technology.
