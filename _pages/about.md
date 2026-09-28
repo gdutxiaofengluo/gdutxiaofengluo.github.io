@@ -29,23 +29,9 @@ News
 * (04/2026)**[Award]** Selected Member of the "One Hundred Leading Youth Speakers" Delegation under the New-Era University Education Community.
 * (12/2025)**[Award]** Selected for the Doctoral Student Program of the Young S&T Talents Cultivation Project, China Association for Science and Technology.
 * (12/2025)**[Award]** Selected for the Graduate Elite Innovative Talent Program, Guangdong University of Technology.
-* (09/2024) **[Award]** Received the
-  <a href="javascript:void(0);" onclick="openScholarshipModal()">National Scholarship</a>,
-  Ministry of Education of China.
 * (12/2025)**[Paper]** One paper on pseudonym exchange incentives for privacy-enhanced vehicular metaverses accepted by IEEE Transactions on Mobile Computing. ([Link](https://ieeexplore.ieee.org/abstract/document/11316369/))
 * (07/2025)**[Paper]** One paper on trustworthy semantic communication for 6G networks published in IEEE Network and selected as IEEE ComSoc Best Readings. ([Link](https://www.comsoc.org/publications/best-readings/semantic-communications))
-
-<div id="national-scholarship-modal" class="award-modal">
-  <div class="award-modal-content">
-
-    <span class="award-modal-close"
-          onclick="closeScholarshipModal()">&times;</span>
-
-    <img src="/images/personal_image/national_scholarship.jpg"
-         alt="National Scholarship">
-
-  </div>
-</div>
+* (09/2024)**[Award]** Received the National Scholarship, Ministry of Education of China.
 
 Academic Services
 ======
@@ -100,23 +86,3 @@ Honors and Awards
 * Guangdong Provincial Third Prize, the 13th National College Students Mathematics Competition, 2021.
 * Guangdong Provincial Silver Award, the 7th China International "Internet+" College Students Innovation and Entrepreneurship Competition, 2021.
 * First-Class Excellent Student Scholarship, Third-Class Excellent Student Scholarship, and Outstanding Communist Youth League Member of Guangdong University of Technology, 2020--2022.
-
-Last Updated: 28/09/2026
-
-<script>
-function openScholarshipModal() {
-  document.getElementById("national-scholarship-modal").style.display = "flex";
-}
-
-function closeScholarshipModal() {
-  document.getElementById("national-scholarship-modal").style.display = "none";
-}
-
-window.addEventListener("click", function(event) {
-  var modal = document.getElementById("national-scholarship-modal");
-
-  if (event.target === modal) {
-    modal.style.display = "none";
-  }
-});
-</script>
