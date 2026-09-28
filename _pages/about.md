@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Xiaofeng Luo"
+title: "Xiaofeng Luo (罗晓峰)"
 author_profile: true
 redirect_from:
   - /about/
