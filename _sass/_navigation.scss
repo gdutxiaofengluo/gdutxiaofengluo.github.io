@@ -177,6 +177,10 @@
   min-width: 250px;
   background: $background-color;
 
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+
   a {
     display: block;
     margin: 0 1rem;
@@ -203,7 +207,6 @@
 
    .visible-links {
      display: table;
-     margin-left: auto;
 
     li {
       display: table-cell;
