@@ -32,6 +32,18 @@ News
 * (09/2024)**[Award]** Received the National Scholarship, Ministry of Education of China.
 * (12/2025)**[Paper]** One paper on pseudonym exchange incentives for privacy-enhanced vehicular metaverses accepted by IEEE Transactions on Mobile Computing. ([Link](https://ieeexplore.ieee.org/abstract/document/11316369/))
 * (07/2025)**[Paper]** One paper on trustworthy semantic communication for 6G networks published in IEEE Network and selected as IEEE ComSoc Best Readings. ([Link](https://www.comsoc.org/publications/best-readings/semantic-communications))
+* (09/2024) **[Award]** Received the
+  <a href="#national-scholarship-modal">National Scholarship</a>,
+  Ministry of Education of China.
+
+<div id="national-scholarship-modal" class="image-modal">
+  <a href="#" class="image-modal-close">&times;</a>
+
+  <div class="image-modal-content">
+    <img src="{{ '/images/personal_image/national_scholarship.jpg' | relative_url }}"
+         alt="National Scholarship">
+  </div>
+</div>
 
 Academic Services
 ======
