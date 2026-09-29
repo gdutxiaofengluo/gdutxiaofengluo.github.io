@@ -15,23 +15,23 @@ Education
 ======
 {: #education}
 
-* 2025.09--Present, Ph.D. Candidate, Control Science and Engineering, Guangdong University of Technology.
+* 2025.09--Present, Ph.D. Candidate, Guangdong University of Technology.
 * 2024.08--2024.11, Visiting Student, Singapore University of Technology and Design.
 * 2024.07--2024.08, Visiting Student, Nanyang Technological University.
-* 2023.09--2025.08, M.S. Candidate, Control Science and Engineering, Guangdong University of Technology.
-* 2019.09--2023.06, B.Eng., Electrical Engineering and Automation, Guangdong University of Technology.
+* 2023.09--2025.08, M.S. Candidate, Guangdong University of Technology.
+* 2019.09--2023.06, B.Eng., Guangdong University of Technology.
 
 News
 ======
 {: #news}
 
 * (08/2026)**[Award]** One paper on cross-reality location privacy protection in 6G-enabled vehicular metaverses accepted by Science China Information Sciences. ([Link](https://link.springer.com/article/10.1007/s11432-026-5081-y))
-* (04/2026)**[Award]** Selected Member of the "One Hundred Leading Youth Speakers" Delegation under the New-Era University Education Community.
-* (12/2025)**[Award]** Selected for the Doctoral Student Program of the Young S&T Talents Cultivation Project, China Association for Science and Technology.
+* (04/2026)**[Award]** Selected Member of the "One Hundred Leading Youth Speakers" Delegation under the New-Era University Education Community. ([Link](https://oas.gdut.edu.cn/seeyon/newsData.do?method=newsView&newsId=-4393842860863961604))
+* (12/2025)**[Award]** Selected for the Doctoral Student Program of the Young S&T Talents Cultivation Project, China Association for Science and Technology. ([Link](https://mp.weixin.qq.com/s/A-tF9f2VS62Lx1RRuj4ycQ))
 * (12/2025)**[Award]** Selected for the Graduate Elite Innovative Talent Program, Guangdong University of Technology.
 * (12/2025)**[Paper]** One paper on pseudonym exchange incentives for privacy-enhanced vehicular metaverses accepted by IEEE Transactions on Mobile Computing. ([Link](https://ieeexplore.ieee.org/abstract/document/11316369/))
 * (07/2025)**[Paper]** One paper on trustworthy semantic communication for 6G networks published in IEEE Network and selected as IEEE ComSoc Best Readings. ([Link](https://www.comsoc.org/publications/best-readings/semantic-communications))
-* (09/2024)**[Award]** Received the National Scholarship, Ministry of Education of China.
+* (09/2024)**[Award]** Received the [National Scholarship](/images/personal_image/national_scholarship.jpg), Ministry of Education of China.
 
 Academic Services
 ======
