@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate in Control Science and Engineering at [Guangdong University of Technology (GDUT)](https://www.gdut.edu.cn/), China, supervised by [Prof. Zhaoshui He](https://teacher.gdut.edu.cn/hezhaoshui/en/index.htm) and [Prof. Jiawen Kang](https://teacher.gdut.edu.cn/kangjiawen/zh_CN/index.htm). I received my B.Eng. degree from Guangdong University of Technology and was subsequently admitted to its postgraduate program through exam-free recommendation, where I completed my master's-stage training before continuing to doctoral study. I was also a visiting student at Nanyang Technological University, Singapore, working with [Prof. Dusit Niyato](https://personal.ntu.edu.sg/dniyato/), and at Singapore University of Technology and Design, working with [Prof. Zehui Xiong](https://sites.google.com/view/zehuixiong).
+I am a Ph.D. candidate in Control Science and Engineering at [Guangdong University of Technology (GDUT)](https://www.gdut.edu.cn/), China, supervised by [Prof. Zhaoshui He](https://teacher.gdut.edu.cn/hezhaoshui/en/index.htm) and [Prof. Jiawen Kang](https://teacher.gdut.edu.cn/kangjiawen/zh_CN/index.htm). I received my B.Eng. degree from Guangdong University of Technology and was subsequently admitted to its postgraduate program through exam-free recommendation, where I completed my master's-stage training before continuing to doctoral study. I was also a visiting student at Singapore University of Technology and Design, working with [Prof. Zehui Xiong](https://sites.google.com/view/zehuixiong).
 
 My research interests include Internet of Vehicles, Security and Privacy, Network Economics, and Metaverse-enabled Networked Systems. My recent work focuses on privacy-preserving mechanisms for Internet of Agents (IoA) and next-generation mobile edge systems.
 
@@ -17,7 +17,6 @@ Education
 
 * 2025.09--Present, Ph.D. Candidate, Guangdong University of Technology.
 * 2024.08--2024.11, Visiting Student, Singapore University of Technology and Design.
-* 2024.07--2024.08, Visiting Student, Nanyang Technological University.
 * 2023.09--2025.08, M.S. Candidate, Guangdong University of Technology.
 * 2019.09--2023.06, B.Eng., Guangdong University of Technology.
 
@@ -26,9 +25,9 @@ News
 {: #news}
 
 * (08/2026)**[Award]** One paper on cross-reality location privacy protection in 6G-enabled vehicular metaverses accepted by Science China Information Sciences. ([Link](https://link.springer.com/article/10.1007/s11432-026-5081-y))
-* (04/2026)**[Award]** Selected Member of the "One Hundred Leading Youth Speakers" Delegation under the New-Era University Education Community. ([Link](https://oas.gdut.edu.cn/seeyon/newsData.do?method=newsView&newsId=-4393842860863961604))
-* (12/2025)**[Award]** Selected for the Doctoral Student Program of the Young S&T Talents Cultivation Project, China Association for Science and Technology. ([Link](https://mp.weixin.qq.com/s/A-tF9f2VS62Lx1RRuj4ycQ))
-* (12/2025)**[Award]** Selected for the Graduate Elite Innovative Talent Program, Guangdong University of Technology.
+* (04/2026)**[Honor]** Selected Member of the "One Hundred Leading Youth Speakers" Delegation under the New-Era University Education Community. ([Link](https://oas.gdut.edu.cn/seeyon/newsData.do?method=newsView&newsId=-4393842860863961604))
+* (12/2025)**[Honor]** Selected for the Doctoral Student Program of the Young S&T Talents Cultivation Project, China Association for Science and Technology. ([Link](https://mp.weixin.qq.com/s/A-tF9f2VS62Lx1RRuj4ycQ))
+* (12/2025)**[Honor]** Selected for the Graduate Elite Innovative Talent Program, Guangdong University of Technology.
 * (12/2025)**[Paper]** One paper on pseudonym exchange incentives for privacy-enhanced vehicular metaverses accepted by IEEE Transactions on Mobile Computing. ([Link](https://ieeexplore.ieee.org/abstract/document/11316369/))
 * (07/2025)**[Paper]** One paper on trustworthy semantic communication for 6G networks published in IEEE Network and selected as IEEE ComSoc Best Readings. ([Link](https://www.comsoc.org/publications/best-readings/semantic-communications))
 * (09/2024)**[Award]** Received the [National Scholarship](/images/personal_image/national_scholarship.jpg), Ministry of Education of China.
